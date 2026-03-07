@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1A2E,100:2D6A9F&height=220&section=header&text=Yashwanth%20Reddy%20Dasari&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Distributed%20Systems%20%7C%20ML%20Infrastructure%20%7C%20Full-Stack&descSize=16&descAlignY=55&descColor=8B949E" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1A2E,100:2D6A9F&height=220&section=header&text=Yashwanth%20Reddy%20Dasari&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&&desc=Software%20Engineer%20%7C%20Backend%20%7C%20AI%2FML%20%7C%20Distributed%20Systems%20%7C%20Full-Stack&descSize=16&descAlignY=55&descColor=8B949E" width="100%" />
 
 <!-- Badges Row -->
 [![Gmail](https://img.shields.io/badge/yashwanth2632@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yashwanth2632@gmail.com)
@@ -28,7 +28,7 @@ shipping: Production services processing 1M+ daily events across AWS & GCP
 building: Distributed systems, ML infrastructure, user-facing applications
 
 languages: [Python, Go, Java, C++, TypeScript, SQL]
-interests: [LLM Orchestration, RAG Pipelines, Event-Driven Architecture, High-Performance APIs]
+interests: [Backend Engineering, AI/ML, LLM Orchestration, RAG Pipelines, Event-Driven Architecture, High-Performance APIs]
 ```
 
 <br/>
