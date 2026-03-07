@@ -28,7 +28,7 @@ shipping: Production services processing 1M+ daily events across AWS & GCP
 building: Distributed systems, ML infrastructure, user-facing applications
 
 languages: [Python, Go, Java, C++, TypeScript, SQL]
-interests: [Backend Engineering, AI/ML, LLM Orchestration, RAG Pipelines, Event-Driven Architecture, High-Performance APIs]
+interests: [Backend Engineering, AI/ML, Full Stack, Distributed Systems, Event-Driven Architecture, High-Performance APIs]
 ```
 
 <br/>
